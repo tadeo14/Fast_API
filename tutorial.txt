@@ -1,0 +1,4 @@
+
+Activar el entorno virtual
+
+tutorial-env\Scripts\activate
